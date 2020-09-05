@@ -5,7 +5,7 @@ require('nightmare-wait-for-url');
 const nightmare = Nightmare({show: true});
 
 var url = 'https://slack.com/signin';
-var slackOrg = "geometricenergy";
+var slackOrg = "";
 var email = '';
 var pw = '';
 
