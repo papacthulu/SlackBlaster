@@ -1,7 +1,7 @@
 {
   "name": "slackblaster",
   "version": "1.0.0",
-  "description": "automate downloading all files on a slack channel",
+  "description": "automate a slack channel",
   "main": "test.js",
   "scripts": {
     "test": "mocha"
