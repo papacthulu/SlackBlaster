@@ -1,0 +1,18 @@
+{
+  "name": "slackblaster",
+  "version": "1.0.0",
+  "description": "automate downloading all files on a slack channel",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.2",
+    "nightmare-wait-for-url": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
